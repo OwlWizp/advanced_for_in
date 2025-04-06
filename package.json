@@ -1,5 +1,5 @@
 {
-  "name": "oop-class",
+  "name": "advanced_for_in",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,6 +24,8 @@
     "webpack-cli": "^6.0.1"
   },
   "dependencies": {
-    "core-js": "^3.40.0"
+    "core-js": "^3.40.0",
+    "global": "^4.4.0",
+    "yarn": "^1.22.22"
   }
 }
